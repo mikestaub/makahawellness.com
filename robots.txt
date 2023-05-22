@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://makahawellnessexperience.net/sitemap.xml
